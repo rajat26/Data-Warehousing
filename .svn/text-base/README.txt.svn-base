@@ -1,0 +1,19 @@
+Team Members:
+
+George Laza (4678885)
+Jia Wang (5994047)
+Jonathan Gagnon (6378676)
+Kabi Daghir (4317629)
+Mathieu Price (4552784)
+Rajat Gupta (6261647)
+
+Contents:
+
+COMP6521 Data Warehouse.pdf		Project Report.
+COMP6521-Presentation.pdf		In-class Presentation Slides.
+Post Mortem.pdf					Project evaluation post mortem.
+ETL								Kettle Transformation and Update Job.
+OLAP Report						Screenshots from Querries executed on our Data Warehouse.
+OLTP Table Creation				SQL Scripts creating the OLTP Database Schema.
+OLTP Table Population			Spawner, C# and procedures to populate the created OLTP Database Schema.
+DW Creation						Data Warehouse Creation Script

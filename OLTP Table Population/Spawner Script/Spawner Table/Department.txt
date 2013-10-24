@@ -1,0 +1,3 @@
+DepartmentId,Numbers,Sequence,0|0|1
+Name,Set,From Fixed List,Budget|Business Office|Customer Support |Emergency Communications|Extension Service |Fleet & Facilities Management |Geographic Information Services (GIS)|Human Resources |Leasing Support |Network & Security Administration|Planning and Development|Planning, Engineering, and Inspections|Purchasing & Contracts
+GroupName,Set,From Fixed List,Central Services|Community Services|County Attorney's Office|County Manager's Office|Environmental Services|Fiscal Services|Growth Management|Leisure Services|Public Safety|Public Safety

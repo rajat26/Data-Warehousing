@@ -1,0 +1,3 @@
+VendorId,Numbers,Integer,0|1000
+AddressId,Numbers,Integer,0|1000
+AddressTypeId,Numbers,Integer,0|1000

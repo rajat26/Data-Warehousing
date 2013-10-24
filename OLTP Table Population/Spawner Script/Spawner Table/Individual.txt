@@ -1,0 +1,3 @@
+CustomerID,Numbers,Sequence,1|0|1
+ContactID,Numbers,Sequence,101|0|1
+Demographics,Set,From Fixed List,Africa|Asia|Austrilia|Europe|North America|South America

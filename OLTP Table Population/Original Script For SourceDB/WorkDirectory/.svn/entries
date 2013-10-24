@@ -1,0 +1,259 @@
+10
+
+dir
+0
+svn://laza.nepdal.com/school/adv_db_sys/ProjectDelivery/OLTP%20Table%20Population/Original%20Script%20For%20SourceDB/WorkDirectory
+svn://laza.nepdal.com/school/adv_db_sys
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bc537d0f-5ab6-4f6d-b9fc-8455a5d9b929
+
+EmployeeDepartmentHistory.sql
+file
+
+
+
+add
+
+StateProvince.sql
+file
+
+
+
+add
+
+helius.sql
+file
+
+
+
+add
+
+SalesTerritory.sql
+file
+
+
+
+add
+
+contact.sql
+file
+
+
+
+add
+
+createSchema.bat
+file
+
+
+
+add
+
+store.sql
+file
+
+
+
+add
+
+Department.sql
+file
+
+
+
+add
+
+ShipMethod.sql
+file
+
+
+
+add
+
+currencyrate.sql
+file
+
+
+
+add
+
+CountryRegion.sql
+file
+
+
+
+add
+
+storecontact.sql
+file
+
+
+
+add
+
+currencyrate.zip
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+salesorderheader.sql
+file
+
+
+
+add
+
+addresses.sql
+file
+
+
+
+add
+
+productcategory.sql
+file
+
+
+
+add
+
+contactcreditcard.sql
+file
+
+
+
+add
+
+productsubcategory.sql
+file
+
+
+
+add
+
+Individual.sql
+file
+
+
+
+add
+
+fillTables.bat
+file
+
+
+
+add
+
+currency.sql
+file
+
+
+
+add
+
+SalesPerson.sql
+file
+
+
+
+add
+
+Employee_updateID.sql
+file
+
+
+
+add
+
+Customer.sql
+file
+
+
+
+add
+
+creditcard.sql
+file
+
+
+
+add
+
+callProcedures.sql
+file
+
+
+
+add
+
+location.sql
+file
+
+
+
+add
+
+readme.txt
+file
+
+
+
+add
+
+product.sql.bck
+file
+
+
+
+add
+
+Employee.sql
+file
+
+
+
+add
+
+SalesPerson_pc.sql
+file
+
+
+
+add
+
+product.sql
+file
+
+
+
+add
+

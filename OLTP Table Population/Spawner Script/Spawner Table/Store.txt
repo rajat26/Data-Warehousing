@@ -1,0 +1,5 @@
+CustomerId,Numbers,Sequence,1|0|1
+Name,Human,Last Name,-1|-1
+Demographics,Set,From Fixed List,density|medium|sparsity
+Rowguid,GUID,
+SalesPersonId,Numbers,Integer,1|40

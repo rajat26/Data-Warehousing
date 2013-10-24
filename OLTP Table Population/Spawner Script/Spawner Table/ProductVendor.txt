@@ -1,0 +1,10 @@
+ProductId,Numbers,Integer,0|1000
+VendorId,Numbers,Integer,0|1000
+AverageLeadTime,Numbers,Integer,0|1000
+StandardPrice,Numbers,Real,0|19|4
+LastReceiptCost,Numbers,Real,0|19|4
+LastReceiptDate,Time,Date (yyyy-mm-dd),39383|40851|3|0
+MinOrderQty,Numbers,Integer,0|1000
+MaxOrderQty,Numbers,Integer,0|1000
+OnOrderQty,Numbers,Integer,0|1000
+UnitMeasureCode,Set,From Fixed List,div

@@ -1,0 +1,15 @@
+EmployeeId,Numbers,Sequence,1|0|1
+NationalIdNumber,Text,Masked String,99999-99999
+ContactId,Numbers,Integer,0|100
+LoginId,Text,Masked String,999999999
+ManagerId,Numbers,Integer,0|10
+ShiftId,Numbers,Integer,0|100
+Title,Set,From Fixed List,Accountant|Adjuster|Advertising|Advertising|Agent|Assembler|assistant|auction|Auctioneer|CHECKER|CHECKER|Cleck|CLERK|Clerk|CONTROL|CORRESPONDENT|ENGINEER|ENGINEER|EXHIBITOR|INSPECTION|INSPECTOR|INSURANCE|INVESTIGATOR|manager|Manager|NETWORK|OPERATING|OPERATOR|ORDER|REPAIRER|REPRESENTATIVE|Safety|SALES|SALES|Sales|SALES|SALES|Sales|SAMPLE|SUPERVISOR
+BirthDate,Time,Date (yyyy-mm-dd),11228|39755|3|0
+MaritalStatus,Set,From Fixed List,M|S
+Gender,Set,From Fixed List,F|M
+HireDate,Time,Date (yyyy-mm-dd),33173|40850|3|0
+SalariedFlag,Numbers,Integer,0|1
+VacationHours,Numbers,Integer,0|200
+SickLeaveHours,Numbers,Integer,0|1000
+CurrentFlag,Numbers,Integer,0|1

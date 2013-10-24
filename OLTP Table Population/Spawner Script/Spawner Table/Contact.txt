@@ -1,0 +1,13 @@
+ContactId,Numbers,Sequence,1|0|1
+NameStyle,Numbers,Integer,0|1
+Title,Set,From Fixed List,reamin1|reamin2|reamin3|reamin4
+FirstName,Human,First Name,-1|-1
+MiddleName,Human,First Name,-1|-1
+Lastname,Human,Last Name,-1|-1
+Suffix,Set,From Fixed List,pqwieu
+EmailAddress,Human,E-Mail Address (name@domain.tld)
+EmailPromotion,Numbers,Integer,0|100
+Phone,Text,Masked String,999-9999-999
+PasswordHash,Text,Fixed-length String,10|10|-1|-1|-1|-1
+PasswordSalt,Text,Fixed-length String,10|10|-1|-1|-1|-1
+AdditionalContactInfo,Set,From Fixed List,remain1|remian2

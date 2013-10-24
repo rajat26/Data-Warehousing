@@ -1,0 +1,2 @@
+AddressTypeId,Numbers,Integer,0|1000
+Name,Set,From Fixed List,alskdj

@@ -1,0 +1,10 @@
+PurchaseOrderId,Numbers,Integer,0|1000
+PurchaseOrderIDetaild,Numbers,Integer,0|1000
+DueDate,Time,Date (yyyy-mm-dd),39383|40851|3|0
+OrderQty,Numbers,Integer,0|1000
+ProductId,Numbers,Integer,0|1000
+UnitPrice,Numbers,Real,0|19|4
+LineTotal,Numbers,Real,0|19|4
+ReceivedQty,Numbers,Real,0|8|2
+RejectedQty,Numbers,Real,0|8|2
+StockedQty,Numbers,Real,0|9|2

@@ -1,0 +1,16 @@
+INSERT INTO Department VALUES (16,'Budget','Fiscal Services');
+INSERT INTO Department VALUES (1,'Business Office','County Manager Office');
+INSERT INTO Department VALUES (2,'Purchasing & Contracts','County Manager Office');
+INSERT INTO Department VALUES (3,'Customer Support ','Central Services');
+INSERT INTO Department VALUES (4,'Fleet & Facilities Management ','Central Services');
+INSERT INTO Department VALUES (5,'Geographic Information Services (GIS)','Central Services');
+INSERT INTO Department VALUES (6,'Human Resources','Central Services');
+INSERT INTO Department VALUES (7,'Leasing Support ','Central Services');
+INSERT INTO Department VALUES (8,'Network & Security Administration ','Central Services');
+INSERT INTO Department VALUES (9,'legal,contracts,acquisitions','County Attorney Office');
+INSERT INTO Department VALUES (10,'Planning, Engineering, and Inspections','Environmental Services');
+INSERT INTO Department VALUES (11,'Planning and Development','Growth Management');
+INSERT INTO Department VALUES (12,'Extension Service','Leisure Services');
+INSERT INTO Department VALUES (13,'Emergency Management','Public Safety');
+INSERT INTO Department VALUES (14,'System Technology & Radio/TV Services ','Public Safety');
+INSERT INTO Department VALUES (15,'Traffic Engineering ','Public Works');

@@ -1,0 +1,5 @@
+SalesTaxRatesId,Numbers,Integer,0|1000
+StateProvinceId,Numbers,Integer,0|1000
+TaxType,Numbers,Integer,0|1000
+TaxRate,Numbers,Integer,0|1000
+Name,Set,From Fixed List,pqowier

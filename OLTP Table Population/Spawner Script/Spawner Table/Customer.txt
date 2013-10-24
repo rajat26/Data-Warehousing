@@ -1,0 +1,4 @@
+CustomerId,Numbers,Sequence,1|0|1
+TerritoryId,Numbers,Integer,1|5
+AccountNumber,Text,Masked String,9999999999
+CustomerType,Text,Masked String,L

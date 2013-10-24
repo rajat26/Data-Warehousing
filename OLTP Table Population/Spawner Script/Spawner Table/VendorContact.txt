@@ -1,0 +1,3 @@
+VendorId,Numbers,Integer,0|1000
+ContactId,Numbers,Integer,0|1000
+ContactTypeId,Numbers,Integer,0|1000

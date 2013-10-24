@@ -1,0 +1,4 @@
+ShiftId,Numbers,Integer,0|1000
+Name,Set,From Fixed List,zxcv
+StartTime,Time,Date (yyyy-mm-dd),39382|40850|3|0
+EndTime,Time,Date (yyyy-mm-dd),39382|40850|3|0

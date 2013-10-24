@@ -1,0 +1,4 @@
+LocationId,Numbers,Integer,0|1000
+Name,Set,From Fixed List,lasfhoweoe
+CostRate,Numbers,Real,0|10|4
+Availability,Numbers,Real,0|8|2

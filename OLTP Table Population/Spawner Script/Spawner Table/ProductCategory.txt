@@ -1,0 +1,2 @@
+PrductCategoryId,Numbers,Sequence,1|0|1
+Name,Set,From Fixed List,Electronics|Home & Garden|Office Products|Sports & Outdoors|Toys & Games

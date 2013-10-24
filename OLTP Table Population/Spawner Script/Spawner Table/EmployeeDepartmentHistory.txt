@@ -1,0 +1,5 @@
+EmployeeId,Numbers,Integer,0|1000
+DepartmentId,Numbers,Integer,0|1000
+StartDate,Time,Date (yyyy-mm-dd),39382|40850|3|0
+ShiftId,Numbers,Integer,0|1000
+EndDate,Time,Date (yyyy-mm-dd),39382|40850|3|0

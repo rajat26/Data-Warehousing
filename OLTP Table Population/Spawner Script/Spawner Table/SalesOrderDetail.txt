@@ -1,0 +1,7 @@
+SalesOrderId,Numbers,Integer,0|1000
+SalesOrderDetailId,Numbers,Integer,0|1000
+CarrierTrackingNumber,Set,From Fixed List,laksjdhfqowieuur
+OrderQty,Numbers,Integer,0|1000
+UnitPrice,Numbers,Real,0|19|4
+UnitPriceDiscount,Numbers,Real,0|19|4
+LineTotal,Numbers,Real,0|38|5

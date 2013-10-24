@@ -1,0 +1,9 @@
+BillOfMaterialId,Numbers,Integer,0|1000
+ProductAssemblyId,Numbers,Integer,0|1000
+ComponentId,Numbers,Integer,0|1000
+StartDate,Time,Date (yyyy-mm-dd),39382|40850|3|0
+EndDate,Time,Date (yyyy-mm-dd),39382|40850|3|0
+UnitMeasureCode,Set,From Fixed List,asd
+BOMLevel,Numbers,Integer,0|1000
+PerAssemblyQty,Numbers,Real,0|8|2
+ModifiedDate,Time,Date (yyyy-mm-dd),39382|40850|3|0

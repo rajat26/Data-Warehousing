@@ -1,0 +1,4 @@
+ShipMethodId,Numbers,Integer,0|1000
+Name,Set,From Fixed List,laskdj
+ShipBase,Numbers,Real,0|19|4
+ShipRate,Numbers,Real,0|19|4

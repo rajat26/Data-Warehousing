@@ -1,0 +1,25 @@
+SalesOrderId,Numbers,Sequence,1|0|1
+RevisionNumber,Numbers,Integer,1|2
+OrderDate,Time,Date (yyyy-mm-dd),36826|40850|3|0
+DueDate,Time,Date (yyyy-mm-dd),36826|40850|3|0
+shipdate,Time,Date (yyyy-mm-dd),36826|40850|3|0
+Status,Numbers,Integer,0|5
+OnlineOrderFlag,Numbers,Integer,0|1
+SalesOrderNumber,Text,Fixed-length String,8|8|0|-1|0|0
+PurchaseOrderNumber,Text,Fixed-length String,8|8|0|-1|0|0
+AccountNumber,Text,Masked String,9999 9999 9999 9999
+CustomerId,Numbers,Integer,1|100
+ContactId,Numbers,Integer,1|100
+SalesPersonId,Numbers,Integer,1|40
+TerritoryId,Numbers,Integer,1|5
+BillToAddressId,Numbers,Integer,119|1118
+ShipToAddressId,Numbers,Integer,119|1118
+ShipMethodId,Numbers,Integer,1|3
+CreditCardApprovalCode,Text,Fixed-length String,8|8|0|-1|0|0
+CurrencyRateId,Numbers,Integer,1|10
+SubTotal,Numbers,Real,0|19|4
+TaxAmt,Numbers,Real,0|19|4
+Freight,Numbers,Real,0|19|4
+TotalDue,Numbers,Real,0|19|4
+Comment,Set,From Fixed List,Comment1|Comment2|Comment3|Comment4
+CreditCardId,Numbers,Integer,1|100

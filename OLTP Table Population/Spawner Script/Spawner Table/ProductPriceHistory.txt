@@ -1,0 +1,4 @@
+ProductId,Numbers,Integer,0|1000
+StartDate,Time,Date (yyyy-mm-dd),39383|40851|3|0
+EndDate,Time,Date (yyyy-mm-dd),39383|40851|3|0
+ListPrice,Numbers,Real,0|19|4

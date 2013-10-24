@@ -1,0 +1,5 @@
+CreditCardId,Numbers,Sequence,1|0|1
+CardType,Set,From Fixed List,Amex|Discover|Master|visa
+CardNumber,Text,Masked String,9999 9999 9999 9999
+ExpMonth,Numbers,Integer,1|12
+ExpYear,Numbers,Integer,2012|2015

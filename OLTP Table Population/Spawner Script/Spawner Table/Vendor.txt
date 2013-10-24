@@ -1,0 +1,7 @@
+VendorId,Numbers,Integer,0|1000
+AccountNumber,Set,From Fixed List,pqowieuryt
+Name,Set,From Fixed List,laksjdhfg
+CreditRating,Numbers,Integer,0|1000
+PreferredVendorStatus,Set,From Fixed List,N|Y
+ActiveFlag,Set,From Fixed List,N|Y
+PurchasingWebServiceURL,Set,From Fixed List,laksjdhfpqwu

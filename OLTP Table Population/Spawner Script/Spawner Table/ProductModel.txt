@@ -1,0 +1,5 @@
+PrductModelId,Numbers,Integer,0|1000
+Name,Set,From Fixed List,mznxbclas
+CatelogDescription,Set,From Fixed List,mznxbclas
+Instructions,Set,From Fixed List,kajsjd|mznxbclas
+Rowguid,Set,From Fixed List,kajsjd|mznxbclas

@@ -1,0 +1,5 @@
+ProductId,Numbers,Integer,0|1000
+LocationId,Numbers,Integer,0|1000
+Shelf,Set,From Fixed List,alksdho
+Bin,Numbers,Integer,0|1000
+Quantity,Numbers,Integer,0|1000

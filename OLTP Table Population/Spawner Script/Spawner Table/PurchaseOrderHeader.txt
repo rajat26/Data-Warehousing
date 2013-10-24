@@ -1,0 +1,12 @@
+PurchaseOrderId,Numbers,Integer,0|1000
+RevisionNumber,Numbers,Integer,0|1000
+Status,Numbers,Integer,0|1000
+EmployeeId,Numbers,Integer,0|1000
+VendorId,Numbers,Integer,0|1000
+ShipMethodId,Numbers,Integer,0|1000
+OrderDate,Time,Date (yyyy-mm-dd),39383|40851|3|0
+ShipDate,Time,Date (yyyy-mm-dd),39383|40851|3|0
+Subtotal,Numbers,Real,0|19|4
+TaxAmt,Numbers,Real,0|19|4
+Freight,Numbers,Real,0|19|4
+TotalDue,Numbers,Real,0|19|4

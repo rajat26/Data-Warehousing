@@ -1,0 +1,7 @@
+SalesPersonId,Numbers,Sequence,1|0|1
+TerritoryId,Numbers,Integer,1|5
+SalesQuote,Numbers,Real,10|1000|4
+Bonus,Numbers,Real,0|19|4
+CommissionPct,Numbers,Real,0|10|4
+SalesYTD,Numbers,Real,0|19|4
+SalesLastYear,Numbers,Real,0|19|4

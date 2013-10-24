@@ -1,0 +1,23 @@
+ProductId,Numbers,Sequence,1|0|1
+Name,Set,From Fixed List,pweirr
+ProductNumber,Text,Masked String,999999
+MakeFlag,Numbers,Integer,0|1
+FinshedGoodsFlag,Numbers,Integer,0|1
+Color,Set,From Fixed List,black|blue|gray|green|orange|purple|red|white|yellow
+SafetyStockLevel,Numbers,Integer,0|10
+RecorderPoint,Numbers,Integer,0|30
+StandardCost,Numbers,Real,0|19|4
+ListPrice,Numbers,Real,0|19|4
+Size,Text,Masked String,\long:99 \width:99 \height:99
+SizeUnitMeasureCode,Set,From Fixed List,CM|M|MM
+WeightUnitMeasureCode,Set,From Fixed List,g|kg|lb
+Weight,Numbers,Real,1|50|2
+DaysToManuFacture,Numbers,Integer,0|365
+ProductLine,Set,From Fixed List,line1|line2|line3
+Class,Set,From Fixed List,class1|class2|class3
+Style,Set,From Fixed List,antique|classic|modern
+ProductSubCategoryId,Numbers,Sequence,1|2|1
+ProductModelId,Numbers,Integer,1|5
+SellStartDate,Time,Date (yyyy-mm-dd),36827|40851|3|0
+SellEndDate,Time,Date (yyyy-mm-dd),36827|40851|3|0
+DiscontinuedDate,Time,Date (yyyy-mm-dd),36827|40851|3|0
