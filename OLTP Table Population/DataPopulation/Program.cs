@@ -54,11 +54,11 @@ namespace ConsoleApplication1
 
         private static void Address()
         {
-            List<string> streetNames = ReadStringItems(@"C:\Users\Jonathan\Concordia\COMP6521\Project\street_names.txt");
-            List<string> streetNamesQuebec = ReadStringItems(@"C:\Users\Jonathan\Concordia\COMP6521\Project\street_names_quebec.txt");
-            List<string> CACities = ReadStringItems(@"C:\Users\Jonathan\Concordia\COMP6521\Project\city_california.txt");
-            List<string> QCCities = ReadStringItems(@"C:\Users\Jonathan\Concordia\COMP6521\Project\city_quebec.txt");
-            List<string> OntCities = ReadStringItems(@"C:\Users\Jonathan\Concordia\COMP6521\Project\city_ontario.txt");
+            List<string> streetNames = ReadStringItems(@"C:\Users\Rajat\Concordia\COMP6521\Project\street_names.txt");
+            List<string> streetNamesQuebec = ReadStringItems(@"C:\Users\Rajat\Concordia\COMP6521\Project\street_names_quebec.txt");
+            List<string> CACities = ReadStringItems(@"C:\Users\Rajat\Concordia\COMP6521\Project\city_california.txt");
+            List<string> QCCities = ReadStringItems(@"C:\Users\Rajat\Concordia\COMP6521\Project\city_quebec.txt");
+            List<string> OntCities = ReadStringItems(@"C:\Users\Rajat\Concordia\COMP6521\Project\city_ontario.txt");
             List<string> BCCities = new List<string>(new string[]{"Vancouver", "Victoria"});
             List<string> ABCities = new List<string>(new string[] { "Edmonton", "Calgary" });
             List<string> NYCities = new List<string>(new string[] { "New York" });
